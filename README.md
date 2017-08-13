@@ -1,5 +1,5 @@
 # animated-scrolling
-Animated 60FPS scrolling to element in pure JS
+Animated 60FPS scrolling in pure JS
 
 # Usage
 1. Download animated-scrolling.min.js
